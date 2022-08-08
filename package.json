@@ -1,0 +1,15 @@
+{
+  "name": "learning-npm",
+  "version": "1.0.0",
+  "description": "this is a project helps to find weather",
+  "main": "findtheweather.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "anil",
+  "license": "ISC",
+  "dependencies": {
+    "create": "^0.0.2",
+    "weather-js": "^2.0.0"
+  }
+}
